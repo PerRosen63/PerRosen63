@@ -4,8 +4,8 @@
 - 🌟 I've been building web sites in WordPress for many years
 - 🌟 At the moment studying at [Medieinstitutet](https://github.com/Medieinstitutet) to learn new skills such as React
 - 🌟 Currently looking for 16 week LIA internship
-- 🌟 Just finished a [degree project](https://github.com/PerRosen63/matpumpa) made in headless WordPress/React!
-- 🌟 Check out my [portfolio](https://perrosen63.github.io/portfolio-react) built in headless WordPress/React!
+- 🌟 Just finished a [degree project](https://perrosen63.github.io/matpumpa) made in headless WordPress/React! [Repo here.](https://github.com/PerRosen63/matpumpa)
+- 🌟 Check out my [portfolio](https://perrosen63.github.io/portfolio-react) built in headless WordPress/React! [Repo here.](https://github.com/PerRosen63/portfolio-react)
 
 ## Skills
 
