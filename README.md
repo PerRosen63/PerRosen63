@@ -1,4 +1,4 @@
-# Hi there!
+# Hi, I'm Per!
 
 ## Developer Front End and WordPress
 - 🌟 I've been building web sites in WordPress for many years
