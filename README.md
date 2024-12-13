@@ -5,7 +5,7 @@
 - 🌟 At the moment studying at [Medieinstitutet](https://github.com/Medieinstitutet) to learn new skills such as React
 - 🌟 Currently looking for 16 week LIA internship
 - 🌟 Just finished a [degree project](https://perrosen63.github.io/matpumpa) made in headless WordPress/React! [Repo here.](https://github.com/PerRosen63/matpumpa)
-- 🌟 Check out my [portfolio](https://perrosen63.github.io/portfolio-react) built in headless WordPress/React! [Repo here.](https://github.com/PerRosen63/portfolio-react)
+- 🌟 Check out my [CV and portfolio](https://perrosen63.github.io/portfolio-react) built in headless WordPress/React! [Repo here.](https://github.com/PerRosen63/portfolio-react)
 
 ## Skills
 
