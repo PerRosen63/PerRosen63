@@ -3,8 +3,7 @@
 ## Developer Front End and WordPress
 - 🌟 I've been building web sites in WordPress for many years
 - 🌟 At the moment studying at [Medieinstitutet](https://github.com/Medieinstitutet) to learn new skills such as React
-- 🌟 Currently looking for 16 week LIA internship 2025-02-03 - 2025-05-23
-- 🌟 Suggested LIA content: Headless CMS eventually combined with e-commerce would be fun!
+- 🌟 Currently doing my 16 week LIA 2 internship (2025-02-03 - 2025-05-23) at e-commerce agency Lybe Sweden AB.
 - 🌟 Just finished a [degree project](https://perrosen63.github.io/matpumpa) made in headless WordPress/React! [Repo here.](https://github.com/PerRosen63/matpumpa)
 - 🌟 Check out my [CV and portfolio](https://perrosen63.github.io/portfolio-react) built in headless WordPress/React! [Repo here.](https://github.com/PerRosen63/portfolio-react)
 
