@@ -1,7 +1,7 @@
 # Hi, I'm Per!
 
 ## Developer Front End and WordPress
-- 🌟 Currently working at e-commerce agency Lybe Sweden AB.
+- 🌟 Formerly working at e-commerce agency Lybe Sweden AB.
 - 🌟 I've been building web sites in WordPress for many years
 - 🌟 Had studied at [Medieinstitutet](https://github.com/Medieinstitutet) to learn new skills such as React
 - 🌟 Finished a [degree project](https://perrosen63.github.io/matpumpa) made in headless WordPress/React! [Repo here.](https://github.com/PerRosen63/matpumpa)
